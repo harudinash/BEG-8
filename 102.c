@@ -8,6 +8,10 @@ int main() {
    if(a%2==0)
    {
        a=a/2;
+      
+      
+      
+      
        printf("%d\n",a);
    }
    else
