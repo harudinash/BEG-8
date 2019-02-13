@@ -8,6 +8,9 @@ int main() {
    {
        n=n*t;
    }
+   
+   
+   
    printf("%d",n);
    return 0;
 }
