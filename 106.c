@@ -6,6 +6,9 @@ int main() {
    scanf("%d%d",&N,&n);
    for(i=0;i<N;i++)
    {
+      
+      
+      
        scanf("%d",&a[i]);
        c[k]=a[i];
       k++; 
