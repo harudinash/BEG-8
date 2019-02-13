@@ -9,6 +9,8 @@ int main() {
    k++;
    for(i=0;i<k;i++)
    {
+      
+      
    printf("%d",c[i]);
    }
    return 0;
